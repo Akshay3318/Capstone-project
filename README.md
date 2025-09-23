@@ -83,13 +83,6 @@ All model outputs and comparisons are visualized using the Bokeh library.
 
 ---
 
-## 📬 Contact
-
-💬 Questions or feedback?  
-Reach out via email: **vireshsingh04@gmail.com**
-
----
-
 > 🚗 Built with Python, Bokeh & Smart Thinking — for smarter urban mobility 🚦
 
 
