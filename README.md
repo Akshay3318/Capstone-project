@@ -53,13 +53,13 @@ dynamic-parking-pricing/
 All model outputs and comparisons are visualized using the Bokeh library.
 
 ### 🔹 Model 1 – Price Over Time
-![Model 1 Plot](model1_price_plot.png)
+![Model 1 Plot](Visualisations/model1_price_plot.png)
 
 ### 🔸 Model 1 vs Model 2 – Comparative Pricing
-![Model 1 vs Model 2 Plot](model1_vs_model2_plot.png)
+![Model 1 vs Model 2 Plot](Visualisations/model1_vs_model2_plot.png)
 
 ### 🔺 Final Comparison – Models 1, 2 & 3
-![Final Model Comparison](final_model_comparison.png)
+![Final Model Comparison](Visualisations/final_model_comparison.png)
 
 
 ---
